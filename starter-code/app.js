@@ -57,7 +57,8 @@ function sumAndMultiply(a, b, c) { //eslint-disable-line
 var numberArray = [4,7,5] 
 testSum = (`${numberArray[0]} and ${numberArray[1]}and ${numberArray[2]}sum to 16.`); 
 testMultiply = (`${numberArray[0]} and ${numberArray[1]}and ${numberArray[2]}sum to 16.`); 
-}
+} 
+
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
 testSumAndMultiply(4,7,5);
